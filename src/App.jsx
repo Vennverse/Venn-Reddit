@@ -77,6 +77,6 @@ const App = ({ isServerInfo }) => {
   );
 };
 
-export const Logo = () => <h4>Decentradit</h4>
+export const Logo = () => <><h4>Venn-Reddit</h4><h4><a href="https://vennverse.github.io/Social-media/">Home</a></h4></> 
 
 export default App;
