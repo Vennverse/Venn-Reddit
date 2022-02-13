@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Venn-Reddit/static/css/main.ce65d123.chunk.css",
+    "main.js": "/Venn-Reddit/static/js/main.96d56a05.chunk.js",
+    "main.js.map": "/Venn-Reddit/static/js/main.96d56a05.chunk.js.map",
+    "runtime-main.js": "/Venn-Reddit/static/js/runtime-main.8f9bd1f2.js",
+    "runtime-main.js.map": "/Venn-Reddit/static/js/runtime-main.8f9bd1f2.js.map",
+    "static/css/2.7393f959.chunk.css": "/Venn-Reddit/static/css/2.7393f959.chunk.css",
+    "static/js/2.4ad03eb7.chunk.js": "/Venn-Reddit/static/js/2.4ad03eb7.chunk.js",
+    "static/js/2.4ad03eb7.chunk.js.map": "/Venn-Reddit/static/js/2.4ad03eb7.chunk.js.map",
+    "index.html": "/Venn-Reddit/index.html",
+    "static/css/2.7393f959.chunk.css.map": "/Venn-Reddit/static/css/2.7393f959.chunk.css.map",
+    "static/css/main.ce65d123.chunk.css.map": "/Venn-Reddit/static/css/main.ce65d123.chunk.css.map",
+    "static/js/2.4ad03eb7.chunk.js.LICENSE.txt": "/Venn-Reddit/static/js/2.4ad03eb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f9bd1f2.js",
+    "static/css/2.7393f959.chunk.css",
+    "static/js/2.4ad03eb7.chunk.js",
+    "static/css/main.ce65d123.chunk.css",
+    "static/js/main.96d56a05.chunk.js"
+  ]
+}
